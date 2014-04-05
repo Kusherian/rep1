@@ -70,6 +70,7 @@ To show off
 
 <img src="http://i.imgur.com/nUu2SgF.png" width="350" height="400" alt=A map of Kenya's Counties">
 
+<p> Testing Github version </P>
 </body>
 
 </html>
