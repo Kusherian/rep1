@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title> My practice web page</title>
+</head>
+
+<body>
+
+<p4id="top"><em><strong>Beginning</em></strong></p4>
+
+<h1> My Practice Web page</h1>
+
+<table>
+  <tr>
+      <td><strong>Names</strong></td>
+      <td><strong>Countries</strong></td>
+      <td><strong>Food</strong></td>
+  </tr>
+  <tr>
+      <td>Alex</td>
+      <td>Argentina</td>
+      <td>Apples</td>
+  </tr>
+  <tr>
+      <td>Benson</td>
+      <td>Bahamas</td>
+      <td>Banana</td>
+  </tr>
+  <tr>
+      <td>Caroline</td>
+      <td>Canada</td>
+      <td>Custard</td>
+  </tr>
+</table>
+
+<h2>What this is</h2>
+
+<p>This is my html coding practice page. <br>This is not my first webpage.</p>
+
+<p>How exciting!</p>
+
+<h2>Why this is</h2>
+
+<p> I want to <em>really</em> ephasize how <strong>strongly</strong> I feel about the gift of giving.
+
+<em><h3>What's the end game?</h3></em>
+<ol>
+
+<li>To become a bonafide developer</li>
+
+<li>
+To show off
+<ul>
+<li>To my boss</li>
+          <li>To my friends</li>
+          <li>To my cat</li>
+          <li>To the little talking duck in my brain</li>
+</ul>
+</li>
+
+<li>To add to my tool belt of skills</li>
+<li>To be better equipped for the kingdom</li>
+</ol>
+
+<h2>Where to find the tutorial</h2>
+
+<p><a href="http://www.htmldog.com">HTML Dog</a></p>
+<p><a href="#Top">Go to the top</a></p>
+
+<img src="http://i.imgur.com/nUu2SgF.png" width="350" height="400" alt=A map of Kenya's Counties">
+
+</body>
+
+</html>
